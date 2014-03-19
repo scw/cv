@@ -1,0 +1,330 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[letterpaper]{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+%\usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
+
+% Set your name here
+\def\name{Shaun Walbridge}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{http://shaunwalbridge.com/documents/cv.pdf}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = [rgb]{0,0.5,0.5},
+  linkcolor = [rgb]{0,0.5,0.5},
+  pdfauthor = {\name},
+  pdfkeywords = {ecology, geography, spatial modeling},
+  pdftitle = {\name: Curriculum Vit\ae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+
+% Place name at left
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.45\linewidth}
+%  \href{http://www.nceas.ucsb.edu/}{{\scshape National Center for Ecological\\
+%                                              Analysis and Synthesis}} \\
+%  \href{http://www.ucsb.edu/}{University of California, Santa Barbara} \\
+   125 Pleasant St. \#106 \\
+   Brookline, MA 02446
+\end{minipage}
+\begin{minipage}[t]{0.45\linewidth}
+  \begin{tabular}{ll}
+    Phone: & (805) 570-8714\\
+    Email: & \href{mailto:shaun.walbridge@gmail.com}{\tt shaun.walbridge@gmail.com} \\
+    Homepage: & \href{http://shaunwalbridge.com}{\tt http://shaunwalbridge.com} \\
+  \end{tabular}
+\end{minipage}
+
+\section*{Research Interests}
+
+spatial ecology, marine spatial planning, geospatial processes, data mining, scientific software
+
+\section*{Education}
+
+\begin{itemize}
+  \item M.A. Ecology, Evolution and Marine Biology, University of California at Santa Barbara, 2012.
+  \item B.S. Physical Geography, University of California at Santa Barbara, 2004.
+\end{itemize}
+
+\section*{Employment}
+
+% List your positions of employment or volunteer work/community service since high
+% school, either full or part-time, including the hours per week worked and the nature and dates of employment or service.
+\subsection*{Esri}
+\begin{itemize}
+\item Oceans Engineer, July 2012--,
+  \begin{itemize}
+    \item Work directly with Chief Scientist on developing new ocean science research
+   \end{itemize}
+\end{itemize}
+
+\subsection*{National Center for Ecological Analysis and Synthesis}
+\begin{itemize}
+\item Researcher and Software Engineer, August 2004--July 2012,
+  \begin{itemize}
+    \item -- developed web application for monitoring the effectiveness of ecosystem-based management
+    \item -- developed collaborative software for working groups and distributed graduate seminars to work virtually, in a centralized web-based system for managing content
+    \item -- extended the functionality of Metacat, an ecoinformatics metadata database
+    \item -- global marine threats project activities included:
+      \begin{itemize}
+        \item developing a global hydrologic model at 1 $km^2$ resolution, focused on land-sea interactions
+        \item developing a plume model for measuring terrestrial impacts on the near-shore
+        \item creating a shipping density model based on public climate data
+        \item running a full monte carlo simulation for a 18-hour runtime model across a cluster
+        \item spatializing an artisanal fishing model developed by E.M.P. Madin
+      \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\subsection*{University of California at Santa Barbara, Instructional Computing}
+\begin{itemize}
+\item Application Developer, September 2001--June 2004
+  \begin{itemize}
+    \item -- Write and manage custom web applications
+    \item -- Developed new internal sites for tracking and managing business operations
+  \end{itemize}
+\item Teaching Assistant, General Computing Skills, January 2002--June 2002
+  \begin{itemize}
+    \item -- Developed course curriculum for technology education of disadvantaged students
+    \item -- Taught fundamental computing concepts
+    \item -- Taught computer applications
+  \end{itemize}
+\item Senior Consultant, January 2001--March 2002
+  \begin{itemize}
+    \item -- Managed daily business operations while directly supervising eight consultants
+    \item -- Resolved computer and network issues, wrote UNIX certification tests.
+  \end{itemize} 
+\item Consultant, September 2000--December 2000
+  \begin{itemize}
+    \item -- Resolved computer and network issues, assisted users both PC and Macintosh labs
+    \item -- Assisted users with major software packages.
+  \end{itemize} 
+\end{itemize}
+
+\subsection*{Foundation for the Preservation of the Mahayana Tradition}
+\begin{itemize}
+  \item Systems Administrator, March 1999--September 1999
+\end{itemize}
+
+\section*{Publications}
+
+\subsection*{Journal Articles}
+
+\begin{enumerate}
+
+\item Micheli, F., Halpern, B.S., {\bf Walbridge, S.}, Ciriaco, S., Ferretti, F., Fraschetti, S., Lewison, R., Nykjaer, L., Rosenberg, A. {\it In-press}. Cumulative human impacts on Mediterranean and Black Sea marine ecosystems: assessing current pressures and opportunities in seas under siege. {\it PLOS ONE}.
+\item McKenna, M., Katz, S., Condit, C., {\bf Walbridge, S.} 2012. Response of commercial ships to a voluntary speed reduction measure: Are voluntary strategies adequate for mitigating ship strike risk. {\it Coastal Management}. Val: 40. Iss: 6. Pages 634-650.
+\item Halpern, B.S., Ebert, C., Kappel, C., Madin, E.M.P., Micheli, F, Perry, M, Selkoe, K.A., {\bf Walbridge, S.} 2009. Global priority areas for incorporating land-sea connections in marine conservation. {\it Conservation Letters}. Pages 1-8.
+\item Selkoe, K.A., Kappel, C.V., Halpern, B., Micheli, F., D'Agrosa, C., Bruno, J.F., Casey, K.S., Ebert, C.M., Fox, H., Fujita, R., Heinemann, D., Lenihan, H.S., Madin, E.M.P., Perry, M., Selig, E.R., Spalding, M., Steneck, R.S., {\bf Walbridge, S.}, Watson, R. 2008. Response to comment on a global map of human impact on marine ecosystems. {\it Science}. Vol: 321. Pages 1446c.
+\item Halpern, B.S., {\bf Walbridge, S.}, Selkoe, K.A., Kappel, C.V., Micheli, F., D'Agrosa, C., Bruno, J.F., Casey, K.S., Ebert, C.M., Fox, H., Fujita, R., Heinemann, D., Lenihan, H.S., Madin, E.M.P., Perry, M., Selig, E.R., Spalding, M., Steneck, R.S., Watson, R. 2008. A global map of human impact on marine ecosystems. {\it Science}. Vol: 319. Pages 948-952.
+\end{enumerate}
+
+\subsection*{Master's Thesis}
+
+\begin{itemize}
+\item {\bf Walbridge, S.} 2013. \href{https://4326.us/thesis/walbridge-masters-thesis.pdf}{Assessing Ship Movements Using Volunteered Geographic Information}. {\it University of California at Santa Barbara}. California, USA.
+\end{itemize}
+
+
+
+\subsection*{Published Technical Reports}
+
+\begin{enumerate}
+\item Peterman, R.M., Adams, P.B., Dorner, B., Drake D., Geiger, H.J., Holt K.R., Jordan, C., Larsen, D.P., Leider, S., Lincoln, R., Olsen, A.R., Parken, C., Rodgers, J., {\bf Walbridge, S.}. 2010. The Salmon Monitoring Advisor: A web site to help users to design and implement salmon monitoring programs. Located at \href{http://www.salmonmonitoringadvisor.org}{http://salmonmonitoringadvisor.org}. Developed through a grant from the Gordon and Betty Moore Foundation, Palo Alto, California, which was administered through the United States National Center for Ecological Analysis and Synthesis (NCEAS) in Santa Barbara, California. Released 3 September 2010.
+\end{enumerate}
+
+\subsection*{Scientific Software}
+
+\begin{itemize}
+\item \href{https://github.com/EsriOceans/btm}{Benthic Terrain Modeler}, seascape classification software.
+\item \href{https://github.com/scw/global-marine-threats/}{PlumeBuffer}, a plume distribution model utilizing GRASS GIS, with Matt Perry (2007--2011). Usage:
+  \begin{itemize}
+    \item -- Reefs at Risk: analysis of threats to coral reefs
+    \item -- Massachusetts human impact analysis
+    \item -- California current human impact analysis
+    \item -- Global map of human impact on marine ecosystems
+  \end{itemize}
+\item NCEAS Collaborative Buildout, a web-based environment for sharing working group resources (2009--2012).
+\item Ecosystem-based management system, a web-based environment for analyzing EBM effectiveness (2005).
+\item \href{http://depts.washington.edu/coasst/}{COASST} Data Management System for citizen science (2008--)
+\item \href{http://knb.ecoinformatics.org/software/metacat/}{Metacat}, a flexible metadata database (2006--2010) {\it Contributor}.
+\item \href{http://cran.r-project.org/web/packages/raster/}{\texttt{raster} package}, raster algebra for \texttt{R} (2011--) {\it Contributor}.
+\end{itemize}
+
+\subsection*{Additional Work}
+\begin{itemize}
+  \item Further software projects on \href{http://github.com/scw}{GitHub}.
+  \item I contribute to the \href{http://gis.stackexchange.com}{GIS StackExchange}, where I'm among the top 2\% of contributors.
+
+\end{itemize}
+
+\bigskip
+
+\section*{Working Groups}
+\begin{itemize}
+\item NCEAS working group: Pyrogeography - fire's place in earth system science
+  \begin{itemize}
+    \item National Center for Ecological Analysis and Synthesis, April 2010--
+  \end{itemize}
+\item NCEAS working group: Monitoring responses of pacific salmon to climate change
+  \begin{itemize}
+    \item National Center for Ecological Analysis and Synthesis, March 2008--November 2011
+  \end{itemize}
+\item NCEAS Distributed Graduate Seminar on measuring ecosystem-based management effectiveness
+  \begin{itemize}
+    \item National Center for Ecological Analysis and Synthesis, August 2004--January 2005
+  \end{itemize}
+\item NCEAS working group: Putting ocean wilderness on the map
+  \begin{itemize}
+    \item National Center for Ecological Analysis and Synthesis, January--April 2005
+  \end{itemize}
+\end{itemize}
+
+\section*{Conference Posters}
+\begin{itemize}
+\item Geographic approaches to enabling ecological synthesis
+  \begin{itemize}
+  \item {\bf Walbridge, S.}, Regetz, J., Leinfelder, B., Jones, M.B., Schildhauer, M. 
+    Scientific Applications with Google Earth Conference
+    University of Michigan, Ann Arbor
+    October 23, 2008.
+  \end{itemize}
+\item Web-based collaboration in an ecology think-tank  
+  \begin{itemize}
+  \item  {\bf Walbridge, S.}, Schildhauer, M., Regetz, J., Jones, M.B., Reeves, R.
+    Environmental Information Management Conference 2008, pp. p. 190. 2008 
+    University of New Mexico
+    October 10, 2008.
+  \end{itemize}
+\item Simplified deployment of the Metacat data and metadata system
+  \begin{itemize}
+  \item Daigle, M., Jones, M.B., Leinfelder, B., {\bf Walbridge, S.}, Tao, J.
+    Environmental Information Management Conference 2008, pp. p. 183. 2008 
+    University of New Mexico
+    October 10, 2008.
+  \end{itemize}
+\end{itemize}
+
+\section*{Membership}
+\begin{itemize}
+  \item Association of American Geographers
+  \item Association for Computing Machinery
+  \item American Geophysical Union
+  \item Electronic Frontier Foundation
+  \item Long Now Foundation
+\end{itemize}
+
+\section*{Technology Skills}
+\begin{itemize}
+  \item Scientific Languages (\textsf{MATLAB}, Arc Macro Language, \textsf{R})
+  \item Programming Languages (Python, Ruby, Javascript, Java, SQL, C, PHP)
+  \item Markup Languages (\LaTeX , HTML, XML, Markdown)
+  \item Geospatial (ArcGIS, ArcInfo, GDAL, PostGIS, GRASS GIS)
+  \item Databases (PostgreSQL, MySQL, SQLite, ZODB, LDAP)
+  \item Version Control (Git, Subversion, CVS)
+  \item Ecoinformatics (Metacat, Kepler, Morpho, EML)
+  \item Operating Systems (FreeBSD, Linux, OS X, Windows)
+\end{itemize}
+
+\newpage
+
+\section*{References}
+
+\begin{itemize}
+\item Benjamin S. Halpern \\
+  Director, Center for Marine Assessment and Planning\\
+  Project Coordinator, National Center for Ecological Analysis and Synthesis\\
+  (805) 892-2531\\
+  \href{mailto:halpern@nceas.ucsb.edu}{\texttt{halpern@nceas.ucsb.edu}}
+\item Julia K. Parrish\\
+  Associate Dean, College of the Environment\\
+  Professor, Aquatic and Fisheries Sciences\\
+  University of Washington\\
+  (206) 221-5787\\
+  \href{mailto:jparrish@u.washington.edu}{\texttt{jparrish@u.washington.edu}}
+\item Mark Schildhauer\\
+  Director of Computing\\
+  National Center of Ecological Analysis and Synthesis\\
+  (805) 892-2509\\
+  \href{mailto:schild@nceas.ucsb.edu}{\texttt{schild@nceas.ucsb.edu}}
+\item William Koseluk (\emph{Teaching Reference}) \\
+  Director, Instructional Computing \\
+  University of California, Santa Barbara\\
+  (805) 893-5252\\
+  \href{mailto:william.koseluk@ic.ucsb.edu}{\texttt{william.koseluk@ic.ucsb.edu}}
+\end{itemize}
+
+\vspace{3in}
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
+
+\end{document}
