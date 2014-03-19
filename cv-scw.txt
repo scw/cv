@@ -1,0 +1,322 @@
+125 Pleasant St. #106
+Brookline, MA 02446
+
+  ----------- ---------------------------------------------------------------
+  Phone:      (805) 570-8714
+  Email:      [shaun.walbridge@gmail.com](mailto:shaun.walbridge@gmail.com)
+  Homepage:   [http://shaunwalbridge.com](http://shaunwalbridge.com)
+  ----------- ---------------------------------------------------------------
+
+Research Interests
+==================
+
+spatial ecology, marine spatial planning, geospatial processes, data
+mining, scientific software
+
+Education
+=========
+
+-   M.A. Ecology, Evolution and Marine Biology, University of California
+    at Santa Barbara, 2012.
+
+-   B.S. Physical Geography, University of California at Santa Barbara,
+    2004.
+
+Employment
+==========
+
+Esri
+----
+
+-   Oceans Engineer, July 2012–,
+
+    -   Work directly with Chief Scientist on developing new ocean
+        science research
+
+National Center for Ecological Analysis and Synthesis
+-----------------------------------------------------
+
+-   Researcher and Software Engineer, August 2004–July 2012,
+
+    -   – developed web application for monitoring the effectiveness of
+        ecosystem-based management
+
+    -   – developed collaborative software for working groups and
+        distributed graduate seminars to work virtually, in a
+        centralized web-based system for managing content
+
+    -   – extended the functionality of Metacat, an ecoinformatics
+        metadata database
+
+    -   – global marine threats project activities included:
+
+        -   developing a global hydrologic model at 1 $km^2$ resolution,
+            focused on land-sea interactions
+
+        -   developing a plume model for measuring terrestrial impacts
+            on the near-shore
+
+        -   creating a shipping density model based on public climate
+            data
+
+        -   running a full monte carlo simulation for a 18-hour runtime
+            model across a cluster
+
+        -   spatializing an artisanal fishing model developed by E.M.P.
+            Madin
+
+University of California at Santa Barbara, Instructional Computing
+------------------------------------------------------------------
+
+-   Application Developer, September 2001–June 2004
+
+    -   – Write and manage custom web applications
+
+    -   – Developed new internal sites for tracking and managing
+        business operations
+
+-   Teaching Assistant, General Computing Skills, January 2002–June 2002
+
+    -   – Developed course curriculum for technology education of
+        disadvantaged students
+
+    -   – Taught fundamental computing concepts
+
+    -   – Taught computer applications
+
+-   Senior Consultant, January 2001–March 2002
+
+    -   – Managed daily business operations while directly supervising
+        eight consultants
+
+    -   – Resolved computer and network issues, wrote UNIX certification
+        tests.
+
+-   Consultant, September 2000–December 2000
+
+    -   – Resolved computer and network issues, assisted users both PC
+        and Macintosh labs
+
+    -   – Assisted users with major software packages.
+
+Foundation for the Preservation of the Mahayana Tradition
+---------------------------------------------------------
+
+-   Systems Administrator, March 1999–September 1999
+
+Publications
+============
+
+Journal Articles
+----------------
+
+1.  Micheli, F., Halpern, B.S., **Walbridge, S.**, Ciriaco, S.,
+    Ferretti, F., Fraschetti, S., Lewison, R., Nykjaer, L., Rosenberg,
+    A. *In-press*. Cumulative human impacts on Mediterranean and Black
+    Sea marine ecosystems: assessing current pressures and opportunities
+    in seas under siege. *PLOS ONE*.
+
+2.  McKenna, M., Katz, S., Condit, C., **Walbridge, S.** 2012. Response
+    of commercial ships to a voluntary speed reduction measure: Are
+    voluntary strategies adequate for mitigating ship strike risk.
+    *Coastal Management*. Val: 40. Iss: 6. Pages 634-650.
+
+3.  Halpern, B.S., Ebert, C., Kappel, C., Madin, E.M.P., Micheli, F,
+    Perry, M, Selkoe, K.A., **Walbridge, S.** 2009. Global priority
+    areas for incorporating land-sea connections in marine conservation.
+    *Conservation Letters*. Pages 1-8.
+
+4.  Selkoe, K.A., Kappel, C.V., Halpern, B., Micheli, F., D’Agrosa, C.,
+    Bruno, J.F., Casey, K.S., Ebert, C.M., Fox, H., Fujita, R.,
+    Heinemann, D., Lenihan, H.S., Madin, E.M.P., Perry, M., Selig, E.R.,
+    Spalding, M., Steneck, R.S., **Walbridge, S.**, Watson, R. 2008.
+    Response to comment on a global map of human impact on marine
+    ecosystems. *Science*. Vol: 321. Pages 1446c.
+
+5.  Halpern, B.S., **Walbridge, S.**, Selkoe, K.A., Kappel, C.V.,
+    Micheli, F., D’Agrosa, C., Bruno, J.F., Casey, K.S., Ebert, C.M.,
+    Fox, H., Fujita, R., Heinemann, D., Lenihan, H.S., Madin, E.M.P.,
+    Perry, M., Selig, E.R., Spalding, M., Steneck, R.S., Watson, R.
+    2008. A global map of human impact on marine ecosystems. *Science*.
+    Vol: 319. Pages 948-952.
+
+Master’s Thesis
+---------------
+
+-   **Walbridge, S.**
+
+    ​2013. [Assessing Ship Movements Using Volunteered Geographic
+    Information](https://4326.us/thesis/walbridge-masters-thesis.pdf).
+    *University of California at Santa Barbara*. California, USA.
+
+Published Technical Reports
+---------------------------
+
+1.  Peterman, R.M., Adams, P.B., Dorner, B., Drake D., Geiger, H.J.,
+    Holt K.R., Jordan, C., Larsen, D.P., Leider, S., Lincoln, R., Olsen,
+    A.R., Parken, C., Rodgers, J., **Walbridge, S.**. 2010. The Salmon
+    Monitoring Advisor: A web site to help users to design and implement
+    salmon monitoring programs. Located at
+    [http://salmonmonitoringadvisor.org](http://www.salmonmonitoringadvisor.org).
+    Developed through a grant from the Gordon and Betty Moore
+    Foundation, Palo Alto, California, which was administered through
+    the United States National Center for Ecological Analysis and
+    Synthesis (NCEAS) in Santa Barbara, California. Released 3 September
+    2010.
+
+Scientific Software
+-------------------
+
+-   [Benthic Terrain Modeler](https://github.com/EsriOceans/btm),
+    seascape classification software.
+
+-   [PlumeBuffer](https://github.com/scw/global-marine-threats/), a
+    plume distribution model utilizing GRASS GIS, with Matt Perry
+    (2007–2011). Usage:
+
+    -   – Reefs at Risk: analysis of threats to coral reefs
+
+    -   – Massachusetts human impact analysis
+
+    -   – California current human impact analysis
+
+    -   – Global map of human impact on marine ecosystems
+
+-   NCEAS Collaborative Buildout, a web-based environment for sharing
+    working group resources (2009–2012).
+
+-   Ecosystem-based management system, a web-based environment for
+    analyzing EBM effectiveness (2005).
+
+-   [COASST](http://depts.washington.edu/coasst/) Data Management System
+    for citizen science (2008–)
+
+-   [Metacat](http://knb.ecoinformatics.org/software/metacat/), a
+    flexible metadata database (2006–2010) *Contributor*.
+
+-   [`raster` package](http://cran.r-project.org/web/packages/raster/),
+    raster algebra for `R` (2011–) *Contributor*.
+
+Additional Work
+---------------
+
+-   Further software projects on [GitHub](http://github.com/scw).
+
+-   I contribute to the [GIS
+    StackExchange](http://gis.stackexchange.com), where I’m among the
+    top 2% of contributors.
+
+Working Groups
+==============
+
+-   NCEAS working group: Pyrogeography - fire’s place in earth system
+    science
+
+    -   National Center for Ecological Analysis and Synthesis, April
+        2010–
+
+-   NCEAS working group: Monitoring responses of pacific salmon to
+    climate change
+
+    -   National Center for Ecological Analysis and Synthesis, March
+        2008–November 2011
+
+-   NCEAS Distributed Graduate Seminar on measuring ecosystem-based
+    management effectiveness
+
+    -   National Center for Ecological Analysis and Synthesis, August
+        2004–January 2005
+
+-   NCEAS working group: Putting ocean wilderness on the map
+
+    -   National Center for Ecological Analysis and Synthesis,
+        January–April 2005
+
+Conference Posters
+==================
+
+-   Geographic approaches to enabling ecological synthesis
+
+    -   **Walbridge, S.**
+
+        , Regetz, J., Leinfelder, B., Jones, M.B., Schildhauer, M.
+        Scientific Applications with Google Earth Conference University
+        of Michigan, Ann Arbor October 23, 2008.
+
+-   Web-based collaboration in an ecology think-tank
+
+    -   **Walbridge, S.**
+
+        , Schildhauer, M., Regetz, J., Jones, M.B., Reeves, R.
+        Environmental Information Management Conference 2008, pp. p.
+        190. 2008 University of New Mexico October 10, 2008.
+
+-   Simplified deployment of the Metacat data and metadata system
+
+    -   Daigle, M., Jones, M.B., Leinfelder, B., **Walbridge, S.**, Tao,
+        J. Environmental Information Management Conference 2008, pp. p.
+        183. 2008 University of New Mexico October 10, 2008.
+
+Membership
+==========
+
+-   Association of American Geographers
+
+-   Association for Computing Machinery
+
+-   American Geophysical Union
+
+-   Electronic Frontier Foundation
+
+-   Long Now Foundation
+
+Technology Skills
+=================
+
+-   Scientific Languages (, Arc Macro Language, )
+
+-   Programming Languages (Python, Ruby, Javascript, Java, SQL, C, PHP)
+
+-   Markup Languages (LaTeX, HTML, XML, Markdown)
+
+-   Geospatial (ArcGIS, ArcInfo, GDAL, PostGIS, GRASS GIS)
+
+-   Databases (PostgreSQL, MySQL, SQLite, ZODB, LDAP)
+
+-   Version Control (Git, Subversion, CVS)
+
+-   Ecoinformatics (Metacat, Kepler, Morpho, EML)
+
+-   Operating Systems (FreeBSD, Linux, OS X, Windows)
+
+References
+==========
+
+-   Benjamin S. Halpern\
+    Director, Center for Marine Assessment and Planning\
+    Project Coordinator, National Center for Ecological Analysis and
+    Synthesis\
+    (805) 892-2531\
+    <halpern@nceas.ucsb.edu>
+
+-   Julia K. Parrish\
+    Associate Dean, College of the Environment\
+    Professor, Aquatic and Fisheries Sciences\
+    University of Washington\
+    (206) 221-5787\
+    <jparrish@u.washington.edu>
+
+-   Mark Schildhauer\
+    Director of Computing\
+    National Center of Ecological Analysis and Synthesis\
+    (805) 892-2509\
+    <schild@nceas.ucsb.edu>
+
+-   William Koseluk (*Teaching Reference*)\
+    Director, Instructional Computing\
+    University of California, Santa Barbara\
+    (805) 893-5252\
+    <william.koseluk@ic.ucsb.edu>
+
+Last updated:\
+[``](\footerlink)
